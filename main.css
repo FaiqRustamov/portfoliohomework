@@ -1,0 +1,103 @@
+
+.img{
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.basliq{
+background: gray;
+margin: 0px 0px 30px;
+overflow: auto;
+margin-right: 20px;
+height:50px; 
+border-bottom: 2px solid white;
+margin-top: -8px;
+margin-left: -9px;
+}
+.ad{
+    float: left;
+    width:160px;
+    height: 50px;
+    font-size: 23px;
+    margin:0px 0px 0px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: slategrey;
+    color: black;
+}
+
+footer{
+padding: 15px 0px;
+clear: both;
+font-size: 13px;
+color: white;
+text-align: center;
+background: gray;
+border-top: 7px solid rgb(27, 26, 26);
+margin-left: -9px;
+width: 100.9%;
+}
+.container{
+    width: 70%;
+    max-width: 923px;
+    margin: 0 auto;
+    clear: both;;
+}
+.head {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    box-shadow: 5px 10px gray;
+}
+.about,.portfolio,.contact{
+    float: right;
+    margin-top: 25px;
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: black
+    
+}
+
+.connect{
+    border-bottom: 3px solid black;
+    line-height: 49px;
+ text-align: center;
+    float: right;
+    width: 100%;
+    max-width: 270px;
+    padding:20px;
+    margin:10px 12px 10px 10px;
+    background:gray;
+    border: 1px solid black;
+}
+.github,.linkedin,.stackoverflow{
+width: 50px;
+height: 50px;
+
+}
+.marsh{
+    margin-bottom:20px;
+}
+.h2{
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.sec{
+    float: left;
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
